@@ -1,6 +1,6 @@
 // code here, goodluck!!
 
-("use strict");
+"use strict";
 
 const prompt = require("prompt-sync")({ sigint: true });
 
